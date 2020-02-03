@@ -20,6 +20,10 @@ body {
  margin-bottom:30px; 
 }
 
-nav {
+nav{
   float: left;
    width:150px;
+}
+nav ul {
+  padding: 0px;
+  margin: 0px;
